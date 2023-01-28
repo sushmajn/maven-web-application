@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Snapshot Nexus Repository </name>
+	      <name>Snapshot Nexus Repo </name>
 	      <url>http://65.0.134.40:8081/repository/java-web-app-snapchat/</url>
 	    </snapshotRepository>
 	    
